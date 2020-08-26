@@ -41,4 +41,4 @@ Are you waiting to take the first step to learn Java? 🤓Or wanting to scale yo
 ### Newsletter :newspaper: :
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://konf.me/newsletter)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
 
-### :arrow_right: Check out our [website](https://jcloud.konfhub.com/?utm_source=KonfHub&utm_medium=Link&utm_campaign=JCloud%20Day) for more details om jCloudDay.
+### :arrow_right: Check out our [website](https://jcloud.konfhub.com/?utm_source=KonfHub&utm_medium=Link&utm_campaign=JCloud%20Day) for more details on jCloudDay.
