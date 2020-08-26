@@ -1,4 +1,5 @@
 # jCloud-Day
+![GitHub stars](https://img.shields.io/github/stars/KonfHub/jCloud-Day?style=social) ![GitHub forks](https://img.shields.io/github/forks/KonfHUb/jCloud-Day?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/KonfHub/jCloud-Day?style=social)
 ## What is jCloud Day? :mega:
 [jCloud Day](http://konf.me/jcloud) is a single day, virtual, developer-focussed, community driven conference on Java and Cloud. The event has been tailor-made with the objective of encouraging and helping Java developers upskill and be up-to-date on the latest Java and Cloud technologies. The event is absolutely free and open for all.
 
