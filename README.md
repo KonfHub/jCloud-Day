@@ -26,8 +26,8 @@
 - Continuous performance engineering for java applications using JFC/ JMC on Azure Cloud
 - Go Serverless with Java and Azure Functions
 - Java on Azure: Building Spring Boot
-- Building Search Experience for a Java App
-- Java & Microservices in Azure
+- [Building Search Experience for a Java App](https://aravind.dev/2020/08/java-apm/)
+- [Java & Microservices in Azure](https://docs.google.com/presentation/d/1jiNEYzg8G2SnXkA8YGUSy9oUksxav-6QLlEjfCpKw8M/edit?usp=sharing)
 - [Build a Java Web Application using Azure Cosmos DB and SQL API](https://drive.google.com/file/d/1troa2LPMP3apX_kW7pnAKqdiMHgId3Gr/view?usp=sharing)
 - [Deploy a Website to Azure using Azure Service](http://bit.ly/jcloudslidedeck)
 
@@ -38,6 +38,7 @@ Upskill yourself, complete any of [these learning paths](https://konf.me/jcloud-
 ### Learning Resoruces :closed_book: :
 Are you waiting to take the first step to learn Java? 🤓Or wanting to scale your solutions? We have you covered! A specially curated list of [learning paths](https://konf.me/jcloud-content-java) for all your Java related queries!
 
+Learing resource on [Java](https://github.com/aravindputrevu/javalin-student/) by Aravind Putrevu
 ### Newsletter :newspaper: :
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://konf.me/newsletter)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
 
