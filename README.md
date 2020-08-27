@@ -23,13 +23,13 @@
     - By [Arpita Srivastava](https://twitter.com/arpita_zoe)
 
 ### Speaker Slides :pencil: :
-- Continuous performance engineering for java applications using JFC/ JMC on Azure Cloud
-- Go Serverless with Java and Azure Functions
-- [Java on Azure: Building Spring Boot](https://github.com/KonfHub/jCloud-Day/files/5136362/Rory_Azure_Spring_Cloud.pdf)
-- [Building Search Experience for a Java App](https://aravind.dev/2020/08/java-apm/)
-- [Java & Microservices in Azure](https://docs.google.com/presentation/d/1jiNEYzg8G2SnXkA8YGUSy9oUksxav-6QLlEjfCpKw8M/edit?usp=sharing)
-- [Build a Java Web Application using Azure Cosmos DB and SQL API](https://drive.google.com/file/d/1troa2LPMP3apX_kW7pnAKqdiMHgId3Gr/view?usp=sharing)
-- [Deploy a Website to Azure using Azure Service](http://bit.ly/jcloudslidedeck)
+- Continuous performance engineering for java applications using JFC/ JMC on Azure Cloud by [Srinivasa Rao Aravalli](https://www.linkedin.com/in/aravilli/)
+- Go Serverless with Java and Azure Functions by [Sandra Ahlgrimm](https://twitter.com/sKriemhild)
+- [Java on Azure: Building Spring Boot](https://github.com/KonfHub/jCloud-Day/files/5136362/Rory_Azure_Spring_Cloud.pdf) by [Rory Preddy](https://twitter.com/rorypreddy)
+- [Building Search Experience for a Java App](https://aravind.dev/2020/08/java-apm/) by [Aravind Putrevu](https://twitter.com/aravindputrevu)
+- [Java & Microservices in Azure](https://docs.google.com/presentation/d/1jiNEYzg8G2SnXkA8YGUSy9oUksxav-6QLlEjfCpKw8M/edit?usp=sharing) by [Soumyadip Chowdhury](https://twitter.com/s_oumyadip?s=09)
+- [Build a Java Web Application using Azure Cosmos DB and SQL API](https://drive.google.com/file/d/1troa2LPMP3apX_kW7pnAKqdiMHgId3Gr/view?usp=sharing) by [Haimantika Mitra](https://twitter.com/HaimantikaM)
+- [Deploy a Website to Azure using Azure Service](http://bit.ly/jcloudslidedeck) by [Arpita Srivastava](https://twitter.com/arpita_zoe)
 
 ### Fun Challenge :point_down: :
 We have a fun challenge for you! 🤓
