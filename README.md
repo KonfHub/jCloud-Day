@@ -24,7 +24,7 @@
 
 ### Speaker Slides :pencil: :
 - Continuous performance engineering for java applications using JFC/ JMC on Azure Cloud by [Srinivasa Rao Aravalli](https://www.linkedin.com/in/aravilli/)
-- Go Serverless with Java and Azure Functions by [Sandra Ahlgrimm](https://twitter.com/sKriemhild)
+- [Go Serverless with Java and Azure Functions](https://github.com/KonfHub/jCloud-Day/files/5139934/AzureFunctionsJCloudConference.pdf) by [Sandra Ahlgrimm](https://twitter.com/sKriemhild)
 - [Java on Azure: Building Spring Boot](https://github.com/KonfHub/jCloud-Day/files/5136362/Rory_Azure_Spring_Cloud.pdf) by [Rory Preddy](https://twitter.com/rorypreddy)
 - [Building Search Experience for a Java App](https://aravind.dev/2020/08/java-apm/) by [Aravind Putrevu](https://twitter.com/aravindputrevu)
 - [Java & Microservices in Azure](https://docs.google.com/presentation/d/1jiNEYzg8G2SnXkA8YGUSy9oUksxav-6QLlEjfCpKw8M/edit?usp=sharing) by [Soumyadip Chowdhury](https://twitter.com/s_oumyadip?s=09)
