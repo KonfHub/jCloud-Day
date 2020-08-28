@@ -43,3 +43,4 @@ Learing resource on [Java](https://github.com/aravindputrevu/javalin-student/) b
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://konf.me/newsletter)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
 
 ### :arrow_right: Check out our [website](https://jcloud.konfhub.com/?utm_source=KonfHub&utm_medium=Link&utm_campaign=JCloud%20Day) for more details on jCloudDay.
+#### Would love to [have your feedback](https://konf.me/jcloudfb) about our event from you.
