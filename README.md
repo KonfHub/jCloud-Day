@@ -9,7 +9,7 @@
     - By [Srinivasa Rao Aravalli](https://www.linkedin.com/in/aravilli/)
   - 11:50am-12:20pm Go Serverless with Java and Azure Functions
     - By [Sandra Ahlgrimm](https://twitter.com/sKriemhild)
-  - 12:25pm-12:55pm Java on Azure: Building Spring Boot
+  - 12:25pm-12:55pm Java on Azure: Building Spring Boot Microservices
     - By [Rory Preddy](https://twitter.com/rorypreddy)
   - 12:55pm-1:30pm Lunch Break
   - 1:30pm-1:40pm Game Time
